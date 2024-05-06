@@ -19,7 +19,9 @@ mkdirs ./data/ActivityDataset
 mv CAD ./data/ActivityDataset
 ```
 ## Training Weight
-CAD weight is in [CAD](https://github.com/mostafa-saad/deep-activity-rec) and VD weight is in [VD](https://github.com/mostafa-saad/deep-activity-rec)
+CAD weight is in https://pan.baidu.com/s/19AdVbnqWa0zM_cEIb7wn2w 
+提取码：f1b2 and VD weight is in https://pan.baidu.com/s/16SVyV3UIoASibAG6JqG7kw 
+提取码：suvt
 
 ## Run
 CAD
